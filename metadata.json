@@ -1,0 +1,6 @@
+{
+  "name": "Radiology Thesis Defense Simulator",
+  "description": "A graduation thesis defense simulator for radiology technicians to practice their thesis presentation, face virtual academic jury members, receive voice questions, and get comprehensive evaluations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
